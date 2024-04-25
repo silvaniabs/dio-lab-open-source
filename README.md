@@ -171,11 +171,10 @@ Nu u uw README.md hebt gemaakt, kunt u deze informatie delen met de hele Github.
 ⚠️ Resolvendo, respondendo ou indicando **issues**
 
 ⭐ Adicionando aos favoritos (**star**)
-
+## Divirta-se
 ### Membros da comunidade que já contribuiram:
 <a href="https://github.com/elidianaandrade/dio-lab-open-source/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=elidianaandrade/dio-lab-open-source"/>
 </a>
-
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
